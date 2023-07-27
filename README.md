@@ -78,6 +78,10 @@ In this project, I implemented a custom face detection system using the Haar Cas
 -   The modified image with labelled faces is displayed using OpenCV's "imshow" function.
 -   The program waits for a key press, and if the 'x' key is pressed, the image window is closed using "destroyAllWindows."
 
+### Result
+
+![enter image description here](https://github.com/tanmaypradhan4112/opencv-Face-Detection/blob/main/result/custom1.png?raw=true)![enter image description here](https://github.com/tanmaypradhan4112/opencv-Face-Detection/blob/main/result/custom3.png?raw=true)
+
 ### Resources
 https://github.com/opencv/opencv 
 
